@@ -1,2 +1,3 @@
 # hello-me
-Developing skills in using this tool - GitHub, for both Professional and Personal learning
+
+Let the GitHub learning experience begins!
